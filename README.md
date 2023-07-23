@@ -9,6 +9,8 @@
   -	Html /html5 
   -	Css /css3 
   -	Bootsarb 5/ Bootsrap 4 
+  - Tailwind
+  - Livewire
   -	Javascript
   -	Git & Github
   -	Laravel Framework 
