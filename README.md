@@ -1,54 +1,60 @@
-# Hi 👋 I'm Omar Ashraf AlGalfy
+# Omar Ashraf AlGalfy
+### Backend Engineer · PHP / Laravel
 
-Backend Engineer specializing in building scalable backend systems using Laravel and PHP.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmar11111&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ALGalfy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmar11111&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ALGalfy)
 
 ---
 
 ## 🚀 About Me
-- 4+ years of experience in PHP & Laravel
-- Experienced in building RESTful APIs and multi-tenant systems
-- Strong understanding of SOLID principles and Clean Architecture
-- Passionate about performance, scalability, and clean code
+
+- 4+ years of experience in **PHP & Laravel**
+- Built scalable **multi-tenant systems** and **RESTful APIs**
+- Experienced with **ZATCA Phase 2 e-invoicing** and **FinTech** integrations
+- Strong understanding of **SOLID principles** and **Clean Architecture**
+- Currently building an **LMS application** with Laravel
 
 ---
 
 ## 🧰 Tech Stack
 
-**Backend:**
-- PHP, Laravel, REST APIs, MySQL
+**Backend**
 
-**Architecture:**
-- SOLID, Clean Architecture, Design Patterns
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Tools:**
-- Git, GitHub, Docker (Basic)
+**Tools & Others**
 
-**Others:**
-- Livewire, Filament, Laravel Nova
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Filament](https://img.shields.io/badge/FilamentPHP-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+
+**Architecture**
+
+![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-green?style=for-the-badge)
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔹 Helmy App (Dream Interpretation Platform)
-- Built backend system using Laravel
-- Implemented payment-based submission system
-- Developed REST APIs for mobile integration
+### 🔹 [Helmy App](YOUR_LINK) — Dream Interpretation Platform
+- Built full backend system using **Laravel**
+- Implemented **payment-based** submission system
+- Developed **REST APIs** for mobile app integration
+- Designed admin dashboard for content management
 
-### 🔹 Minimelts Website (E-commerce Platform)
-- Built backend system using Laravel
-- Developed admin dashboard using Filament
+### 🔹 [Minimelts](YOUR_LINK) — E-commerce Platform
+- Built backend system using **Laravel**
+- Developed admin dashboard using **Filament**
 - Managed product and order workflows
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: algalfy71@gmail.com  
-- 📱 Phone: 01272306641  
-- 🔗 LinkedIn: https://www.linkedin.com/in/omar-algalfy-11b1b31b8/  
 
----
-
-## 💡 Currently
-- Improving System Design skills
-- Learning more about scalable architectures and DevOps
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-algalfy-11b1b31b8/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:algalfy71@gmail.com)
