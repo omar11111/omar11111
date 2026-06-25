@@ -1,10 +1,4 @@
 # Omar Ashraf AlGalfy
-### Backend Engineer · PHP / Laravel
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar11111&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/omar11111)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar11111&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/omar11111)
-
----
 
 ## 🚀 About Me
 
